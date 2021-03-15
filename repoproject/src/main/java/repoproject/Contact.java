@@ -6,7 +6,7 @@ public class Contact {
 	}
 public void ratingContact(String name,String rollno, String core)
 {
-	System.out.println("hello");
+	System.out.println("he");
 }
 	}
 
