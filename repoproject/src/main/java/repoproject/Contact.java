@@ -6,5 +6,9 @@ public class Contact {
 		
 
 	}
+	public void ratingContact(String name,String rollno)
+	{
+		
+	}
 
 }
